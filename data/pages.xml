@@ -50,4 +50,6 @@
     <page id="48" shadow="false" source="content/pages/page48.jpg" thumb="content/thumbs/page48.jpg"></page>
     <page id="49" shadow="false" source="content/pages/page49.jpg" thumb="content/thumbs/page49.jpg"></page>
     <page id="50" shadow="false" source="content/pages/page50.jpg" thumb="content/thumbs/page50.jpg"></page>
+    <page id="51" shadow="false" source="content/pages/page51.jpg" thumb="content/thumbs/page51.jpg"></page>
+    <page id="52" shadow="false" source="content/pages/page52.jpg" thumb="content/thumbs/page52.jpg"></page>
 </pages>
